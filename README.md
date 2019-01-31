@@ -19,7 +19,7 @@ ArXiv link: https://arxiv.org/abs/1901.08539
   publisher={Society of Exploration Geophysicists}
 }
 ```
-![ExampleRetrieval](https://github.com/olivesgatech/Content-Adaptive-Non-Parametric-Texture-Similarity-Measure/blob/master/Figures/results.png?raw=true)
+![results](https://github.com/olivesgatech/Multiresolution-Analysis-and-Learning-for-Computational-Seismic-Interpretation/blob/master/Figures/results.png?raw=true)
 
 ## How to run the code
 Run the function "RunMe_Labeling.m" to see a reproduce the results presented in the paper 
