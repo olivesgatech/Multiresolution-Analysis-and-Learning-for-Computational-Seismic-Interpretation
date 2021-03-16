@@ -76,8 +76,8 @@ X = x(rndIndices,:);
 Y = y(rndIndices);
 
 
-%load('/mnt/HD/Ubuntu/Dropbox (GhassanGT)/Motaz/Big_and_Data/Databases/SeismicDatabases/LabelingSeismic/crossline.mat');
-load('D:/Dropbox (GhassanGT)/Motaz/Big_and_Data/Databases/SeismicDatabases/LabelingSeismic/crossline.mat');
+
+load('crossline.mat');
 
 % load GT:
 
